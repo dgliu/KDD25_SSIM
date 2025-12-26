@@ -35,6 +35,11 @@ An example of running SSIM:
 python  SSIM4trainer.py --dataset ali-mama --model dnn
 ```
 
+## Variants
+
+We have provided examples of SSIM variants that integrate STAR and HMOE as backbone models in the STAR-SSIM and HMOE-SSIM folders, respectively.
+
+
 ## 
 
 If you have any issues or ideas, feel free to contact us ([dugang.ldg@gmail.com](mailto:dugang.ldg@gmail.com)).
